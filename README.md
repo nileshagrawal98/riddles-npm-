@@ -1,7 +1,9 @@
 # riddles-npm-
 
 ## Install
-` npm install @nileshagra1998/riddles `
+```
+npm install @nileshagra1998/riddles
+```
 
 
 ## Description
