@@ -1,0 +1,23 @@
+{
+  "name": "@nileshagra1998/riddles",
+  "version": "0.0.1",
+  "description": "A basic text quiz game I created for learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nileshagra1998@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nileshagrawal98/riddles-npm-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nileshagrawal98/riddles-npm-/issues"
+  },
+  "homepage": "https://github.com/nileshagrawal98/riddles-npm-#readme"
+}
