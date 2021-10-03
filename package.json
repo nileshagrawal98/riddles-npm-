@@ -1,6 +1,6 @@
 {
   "name": "@nileshagra1998/riddles",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A basic text quiz game I created for learning.",
   "main": "index.js",
   "scripts": {
